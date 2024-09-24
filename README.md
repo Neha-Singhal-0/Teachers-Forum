@@ -1,6 +1,4 @@
 
-
-```markdown
 # Teachers Forum - Classroom Management Platform
 
 ## Overview
