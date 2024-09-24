@@ -104,5 +104,3 @@ Feel free to fork this repository, make changes, and submit pull requests. Contr
 ## License
 This project is licensed under the MIT License.
 ```
-
-This README file is designed to be user-friendly and informative, covering project features, folder structure, tech stack, and setup instructions. Let me know if you'd like to make any adjustments!
